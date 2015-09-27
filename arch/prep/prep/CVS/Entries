@@ -1,0 +1,10 @@
+/cpu.c/1.18/Sat Jul  2 03:02:52 2011//
+/mainbus.c/1.33/Sat Jan 28 03:04:34 2012//
+/consinit.c/1.8/Sun Oct 14 03:02:33 2012//
+/ibm_machdep.c/1.16/Thu Mar 27 04:09:19 2014//
+/residual.c/1.18/Fri Mar 28 03:04:08 2014//
+/machdep.c/1.75/Fri Apr  4 03:01:53 2014//
+/platform.c/1.28/Fri Apr  4 03:01:53 2014//
+/locore.S/1.19/Fri Aug  8 03:03:29 2014//
+/autoconf.c/1.28/Sun Oct 19 03:04:37 2014//
+D
